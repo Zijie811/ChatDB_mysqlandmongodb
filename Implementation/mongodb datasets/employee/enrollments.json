@@ -1,0 +1,8 @@
+[
+    {"_id": "E001", "studentId": "S001", "courseId": "C001", "enrollDate": "2024-04-02", "status": "Active", "grade": "A"},
+    {"_id": "E002", "studentId": "S002", "courseId": "C002", "enrollDate": "2024-03-16", "status": "Active", "grade": "B"},
+    {"_id": "E003", "studentId": "S003", "courseId": "C003", "enrollDate": "2024-05-05", "status": "Active", "grade": "A"},
+    {"_id": "E004", "studentId": "S004", "courseId": "C003", "enrollDate": "2024-05-10", "status": "Active", "grade": "B+"},
+    {"_id": "E005", "studentId": "S005", "courseId": "C004", "enrollDate": "2024-06-15", "status": "Pending", "grade": null},
+    {"_id": "E006", "studentId": "S002", "courseId": "C001", "enrollDate": "2024-04-03", "status": "Active", "grade": "A-"}
+]

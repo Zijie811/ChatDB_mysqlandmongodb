@@ -1,0 +1,6 @@
+[
+    {"_id": "C001", "title": "Introduction to Python", "category": "Programming", "instructorId": "I001", "credits": 3, "startDate": "2024-04-01"},
+    {"_id": "C002", "title": "Data Science with R", "category": "Data Science", "instructorId": "I002", "credits": 4, "startDate": "2024-03-15"},
+    {"_id": "C003", "title": "Digital Marketing Basics", "category": "Marketing", "instructorId": "I003", "credits": 2, "startDate": "2024-05-01"},
+    {"_id": "C004", "title": "Machine Learning Essentials", "category": "Artificial Intelligence", "instructorId": "I004", "credits": 5, "startDate": "2024-06-01"}
+]

@@ -1,0 +1,4 @@
+employee_id,name,position,salary,department_id
+E001,Alice Johnson,Manager,70000,D01
+E002,Bob Williams,Engineer,60000,D02
+E003,Charlie Brown,Technician,50000,D02

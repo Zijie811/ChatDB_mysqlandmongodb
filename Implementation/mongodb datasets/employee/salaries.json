@@ -1,0 +1,6 @@
+[
+    {"employee_id": 1, "salary": 90000, "effective_date": "2024-01-01"}, 
+    {"employee_id": 2, "salary": 75000, "effective_date": "2024-01-01"}, 
+    {"employee_id": 3, "salary": 70000, "effective_date": "2024-01-01"}, 
+    {"employee_id": 4, "salary": 72000, "effective_date": "2024-01-01"}
+]

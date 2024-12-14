@@ -1,0 +1,7 @@
+[
+    {"_id": "P001", "name": "Laptop", "price": 1200, "category": "Electronics"},
+    {"_id": "P002", "name": "Smartphone", "price": 800, "category": "Electronics"},
+    {"_id": "P003", "name": "Wireless Mouse", "price": 100, "category": "Accessories"},
+    {"_id": "P004", "name": "Notebook", "price": 20, "category": "Stationery"},
+    {"_id": "P005", "name": "Headphones", "price": 150, "category": "Electronics"}
+]

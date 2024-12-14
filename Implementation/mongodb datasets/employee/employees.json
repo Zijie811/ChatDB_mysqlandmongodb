@@ -1,0 +1,6 @@
+[
+    {"employee_id": 1, "first_name": "John", "last_name": "Doe", "job_title": "Manager", "manager_id": null}, 
+    {"employee_id": 2, "first_name": "Jane", "last_name": "Smith", "job_title": "Developer", "manager_id": 1}, 
+    {"employee_id": 3, "first_name": "Emily", "last_name": "Jones", "job_title": "Designer", "manager_id": 1}, 
+    {"employee_id": 4, "first_name": "Michael", "last_name": "Brown", "job_title": "Developer", "manager_id": 2}
+]

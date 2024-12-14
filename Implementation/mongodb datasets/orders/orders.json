@@ -1,0 +1,7 @@
+[
+    {"_id": "O001", "user": "John Doe", "products": {"productId": "P001", "quantity": 1}, "totalPrice": 1200, "orderDate": "2024-11-20"},
+    {"_id": "O002", "user": "Jane Smith", "products": {"productId": "P002", "quantity": 2}, "totalPrice": 1600, "orderDate": "2024-11-21"},
+    {"_id": "O003", "user": "Alice Johnson", "products": {"productId": "P003", "quantity": 1}, "totalPrice": 100, "orderDate": "2024-11-22"},
+    {"_id": "O004", "user": "Bob Brown", "products": {"productId": "P001", "quantity": 3}, "totalPrice": 3600, "orderDate": "2024-11-23"},
+    {"_id": "O005", "user": "Diana King", "products": {"productId": "P004", "quantity": 5}, "totalPrice": 500, "orderDate": "2024-11-24"}
+]

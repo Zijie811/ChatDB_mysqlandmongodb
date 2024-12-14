@@ -1,0 +1,6 @@
+[
+    {"_id": "I001", "name": "Dr. John Doe", "email": "j.doe@university.edu", "specialization": "Programming", "experienceYears": 10},
+    {"_id": "I002", "name": "Dr. Emily Clark", "email": "e.clark@university.edu", "specialization": "Data Science", "experienceYears": 8},
+    {"_id": "I003", "name": "Prof. Daniel Wilson", "email": "d.wilson@university.edu", "specialization": "Marketing", "experienceYears": 12},
+    {"_id": "I004", "name": "Dr. Sophia Turner", "email": "s.turner@university.edu", "specialization": "Artificial Intelligence", "experienceYears": 7}
+]

@@ -1,0 +1,9 @@
+[
+    {"username": "John Doe", "email": "johndoe@nyu.edu", "address": "123 Main St, New York, USA"},
+    {"username": "Jane Smith", "email": "janesmith@usc.edu", "address": "456 Elm St, Los Angeles, USA"},
+    {"username": "Alice Johnson", "email": "alicej@gmail.com", "address": "789 Pine Ave, San Francisco, USA"},
+    {"username": "Bob Brown", "email": "bobb@outlook.com", "address": "7 Church Lane, Manchester, M15 6HQ, UK"},
+    {"username": "Diana King", "email": "dianaking@mit.edu", "address": "987 Birch Rd, Boston, USA"},
+    {"username": "George Black", "email": "georgeb@gmail.com", "address": "221B Baker Street, London, NW1 6XE, UK"},
+    {"username": "Hannah Adams", "email": "hannah.adams@gmail.com", "address": "246 Cherry Ct, Austin, USA"}
+]

@@ -1,0 +1,8 @@
+[
+    {"product": "Laptop", "user": "John Doe", "rating": 5, "review": "Excellent product!"},
+    {"product": "Smartphone", "user": "Jane Smith", "rating": 4, "review": "Great value for the price."},
+    {"product": "Wireless Mouse", "user": "Alice Johnson", "rating": 5, "review": "Compact and works perfectly."},
+    {"product": "Notebook", "user": "Diana King", "rating": 4, "review": "Useful for daily notes."},
+    {"product": "Headphones", "user": "Bob Brown", "rating": 3, "review": "Good sound quality, but a bit expensive."},
+    {"product": "Smartphone", "user": "Hannah Adams", "rating": 5, "review": "Love the camera and battery life."}
+]

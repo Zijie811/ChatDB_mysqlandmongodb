@@ -1,0 +1,7 @@
+[
+    {"_id": "S001", "name": "Alice Johnson", "email": "alice.j@gmail.com", "age": 22, "major": "Computer Science", "joinDate": "2024-01-15"},
+    {"_id": "S002", "name": "Bob Smith", "email": "bob.smith@gmail.com", "age": 25, "major": "Data Science", "joinDate": "2024-02-20"},
+    {"_id": "S003", "name": "Charlie Brown", "email": "charlie.b@gmail.com", "age": 21, "major": "Business Administration", "joinDate": "2024-03-10"},
+    {"_id": "S004", "name": "Diana King", "email": "diana.king@gmail.com", "age": 23, "major": "Marketing", "joinDate": "2024-04-05"},
+    {"_id": "S005", "name": "Eve Taylor", "email": "eve.taylor@gmail.com", "age": 24, "major": "Artificial Intelligence", "joinDate": "2024-03-01"}
+]
